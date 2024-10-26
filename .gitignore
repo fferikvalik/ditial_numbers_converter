@@ -1,0 +1,8 @@
+*.d
+*.o
+*.exe
+*.exec
+MakeFile
+/obj
+/Debug
+/Release
