@@ -8,3 +8,4 @@ MakeFile
 /Release
 digital_converter
 .DS_Store
+.vscode
